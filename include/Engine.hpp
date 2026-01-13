@@ -15,7 +15,7 @@ namespace engine
 		std::string name;
 		double RotationPerSecondSpeeed;
 		double Voltage;
-		double Ampers; //сила струму я хз як правильно
+		double Ampers; //СЃРёР»Р° СЃС‚СЂСѓРјСѓ
 	public:
 		Engine(const std::string& name_, const double& RotationPerSecondSpeeed_, const double& Voltage_, const double& Ampers_)
 			:name(name_), RotationPerSecondSpeeed(RotationPerSecondSpeeed_), Voltage(Voltage_), Ampers(Ampers_)
@@ -53,12 +53,12 @@ namespace engine
 
 		void RotationForvard()
 		{
-		//тіло пусте мб буду модифікувати
+		//С…** Р·РЅР°С” СЏРє СЂРµР°Р»С–Р·СѓРІР°С‚Рё
 		}
 
 		void RotationBackward()
 		{
-		//поки пусто можливі модифікації
+		//С…** Р·РЅР°С” СЏРє СЂРµР°Р»С–Р·СѓРІР°С‚Рё
 		}
 	};
 }

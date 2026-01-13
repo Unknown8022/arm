@@ -2,8 +2,9 @@
 
 #include <iostream>
 #include <cmath>
+#include "AngleColculatorSpeed.hpp"
 
-namespace engieсircularlmovement
+namespace engieпїЅircularlmovement
 {
 	class EngineCircularMovement
 	{
@@ -24,7 +25,7 @@ namespace engieсircularlmovement
 		{}
 
 		const double& get_RotationPerAngleSpeed() const { return this->RotationPerAngleSpeed; };
-
+	
 		const double& set_RotationPerAngleSpeed(const double& RotationPerAngleSpeed)
 		{
 			this->RotationPerAngleSpeed = RotationPerAngleSpeed;
@@ -33,12 +34,12 @@ namespace engieсircularlmovement
 
 		void Graber()
 		{
-			//функція що буде тирити значення		
+			//С…** Р·РЅР°С” СЏРє СЂРµР°Р»С–Р·СѓРІР°С‚Рё
 		};
 
 		void Rotate()
 		{	
-		//буду модифікувати
+		//РґРѕСЂРѕР±РёРјРѕ
 		};
 
 	};
