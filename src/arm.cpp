@@ -6,4 +6,5 @@ int main()
 {
 	cout << "enter x" << endl;
 	return 0;
+
 }
