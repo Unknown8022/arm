@@ -34,7 +34,7 @@ namespace engie�ircularlmovement
 
 		void Graber()
 		{
-			//х** знає як реалізувати
+			//хз як реалізувати
 		};
 
 		void Rotate()

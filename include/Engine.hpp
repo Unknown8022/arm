@@ -53,12 +53,12 @@ namespace engine
 
 		void RotationForvard()
 		{
-		//х** знає як реалізувати
+		//хз як реалізувати
 		}
 
 		void RotationBackward()
 		{
-		//х** знає як реалізувати
+		//хз як реалізувати
 		}
 	};
 }

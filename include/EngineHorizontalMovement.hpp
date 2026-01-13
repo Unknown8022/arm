@@ -43,7 +43,7 @@ namespace engiehorizontalmovement
 
 		void Graber()
 		{
-			//х** знає як реалізувати
+			//хз як реалізувати
 		};
 
 		void Move()
